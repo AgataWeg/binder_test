@@ -1,0 +1,7 @@
+name: env_data_b
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9  # Specify the Python version if needed
+  - requests    # For HTTP requests
+  - xarray      # For handling multidimensional datasets
